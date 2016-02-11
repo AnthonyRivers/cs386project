@@ -12,7 +12,11 @@ The peer evalution system helps managers evaluate the performance of team member
 
 Here's our logo (hover to see the title text):
 Inline-style: 
+<<<<<<< HEAD
 ![alt text](https://github.com/AnthonyRivers/cs386project/images/LogisticaLogo1.png "Logistica logo")
+=======
+![alt text](https://github.com/AnthonyRivers/cs386project/blob/master/images/Logo.PNG "Logistica logo")
+>>>>>>> 612f920b202dc22b862657d617c6fc6086e48b3b
 
 
 Logistica Peer Evaluation System (Project for Software Engineering CS386)
